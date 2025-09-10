@@ -1,13 +1,10 @@
 ### Hello, visitor！ 👋
 Here are a few things you have to know about STCloudLake：
-- 🔭 A junior at NENU.
-- 🌱 A Konnyaku.
+- 🔭 A student at PolyU.
 - 👯 A **SINGLE**.
 - 🤔 The previous one is **NOT** important.
-- 💬 Keen on ？？？？？？
-- 📫 （Override）Welcome to the forum: http://cloudlake.eu.org (will be http://deadline.eu.org soon)
-- 😄 **May（NOT）** deploy a blog site: http://stcloudlake.eu.org
-- ⚡ One of these is a lie.
+- 📫 Youtube: [Personal Profile](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+- ⚡ One of these is a **TRICK**.
 
 $$
 \begin{array}{c|crcrcrcrcrcrcrcrcrcrcrcr}
