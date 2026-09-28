@@ -155,9 +155,10 @@ Passthrough-camera ROI capture via async GPU readback; documented in an IEEE-for
 [![Stars](https://img.shields.io/github/stars/STCloudLake?style=flat-square&label=Total%20stars&color=1F6FEB)](https://github.com/STCloudLake?tab=repositories)
 [![Commits](https://img.shields.io/badge/contributions-251-1F6FEB?style=flat-square)](https://github.com/STCloudLake)
 
-<!-- github-readme-stats renders from GitHub's own servers via the camo proxy,
-     so it works for visitors even on networks that cannot reach *.vercel.app directly. -->
+<!-- github-readme-stats (vercel) removed: it returned 502 on GitHub's own camo fetch.
+     Re-add the line below once the service is healthy again.
 [![Stats](https://github-readme-stats.vercel.app/api?username=STCloudLake&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=1F6FEB&icon_color=1F6FEB)](https://github.com/STCloudLake)
+-->
 
 [![Streak](https://streak-stats.demolab.com?user=STCloudLake&hide_border=true&date_format=%5BY.%5Dn.j&card_width=760)](https://github.com/STCloudLake)
 
